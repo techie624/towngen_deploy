@@ -1,12 +1,12 @@
-# towngen_deploy
+## towngen_deploy
 Public Repo for using scripts to deploy Town Generator Locally within a Ubuntu Container. All creation of 
 
 All credit and creation of the Generator belongs to Bram van den Heuvel (noordstar.me).
 
-# Docker Hub Image(s)
+### Docker Hub Image(s)
 https://hub.docker.com/repository/docker/techie624/dnd_towngen_ubuntu
 
-# Image Deployment
+### Image Deployment
 ```bash
 bash town_gen-node_Deploy.sh
 ```
